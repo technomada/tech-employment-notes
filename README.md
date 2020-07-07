@@ -5,41 +5,41 @@ Some notes from my experence with technical job search.
 ## resume/network
 
 ## sources
-		* google jobs
-		* indeed
-		* linkedin
-		* hacker news
+* google jobs
+* indeed
+* linkedin
+* hacker news
 
 ## alts
-		* videos
-		* blogs
-		* projects / work history
-		* history matrix
+* videos
+* blogs
+* projects / work history
+* history matrix
 
 ## reading
-		* hacker news how to start a company
+* hacker news how to start a company
 
 ## programs (for structure)
 
 ## thoughts, one size doesn't fit all
 
 ## resume
-	* human and content readers
+* human and content readers
 
 ## brush up on
-		* algos
-		* BigO
-		* patterns
+* algos
+* BigO
+* patterns
     
 ## practicing
-		* pramp
-		* coder (leetcode)
+* pramp
+* coder (leetcode)
     
 ## suggestions
-		* apply if over 50% of bullet points
+* apply if over 50% of bullet points
     
 ## organization [amp up your game to support many irons in the fire]
-		* simple text file
-		* spreadsheet
-		* notion
-		* crm
+* simple text file
+* spreadsheet
+* notion
+* crm
