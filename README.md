@@ -1,6 +1,6 @@
-# tech job serarch notes
+# Tech job serarch notes
 
-Some notes from my experence with technical job search.
+Notes from my experence with technical job search.
 
 ## resume/network
 
@@ -8,20 +8,27 @@ Some notes from my experence with technical job search.
 * google jobs
 * indeed
 * linkedin
+* glassdoor
 * hacker news
+    - Ask HN: Who is hiring?
+    - Ask HN: Who wants to be hired?
 
 ## alts
 * videos
 * blogs
 * projects / work history
-* history matrix
+* project history matrix
 
 ## reading
-* hacker news how to start a company
+* Consider starting a company? -- https://news.ycombinator.com/item?id=23565220
 
 ## programs (for structure)
 
 ## thoughts, one size doesn't fit all
+* resume / work history
+* projects
+* blogs
+* get to know
 
 ## resume
 * human and content readers
@@ -29,12 +36,12 @@ Some notes from my experence with technical job search.
 ## brush up on
 * algos
 * BigO
-* patterns
+* design patterns
     
 ## practicing
 * pramp
-* coder (leetcode)
-    
+* hackerrank
+
 ## suggestions
 * apply if over 50% of bullet points
     
@@ -43,3 +50,7 @@ Some notes from my experence with technical job search.
 * spreadsheet
 * notion
 * crm
+
+## tips
+* past some basic points they're looking not to see if you can code, but how you code 
+* initially not trying to impress, but trying to avoid getting filtered out
